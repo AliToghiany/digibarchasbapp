@@ -1,0 +1,11 @@
+
+
+{
+  "appId": "com.customprint.studio",
+  "appName": "طراحی لباس سه‌بعدی",
+  "webDir": "www",
+  "server": {
+    "url": "https://app.digibarchasb/studio/",
+    "cleartext": false
+  }
+}
